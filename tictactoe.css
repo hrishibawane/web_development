@@ -1,0 +1,29 @@
+body {
+    background: -webkit-linear-gradient(40deg, DeepSkyBlue, #6f1add);
+}
+h2 {
+    font-family: times;
+    text-shadow: 3px 3px 3px #666;
+}
+.box {
+    border: 3px solid #800000;
+    border-radius: 20px;
+    margin: 0;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    box-shadow: 3px 3px 4px #222;
+}
+button {
+    font-family: times;
+    background: green;
+    color: white;
+    width: 90%;
+    height: 50px;
+    box-shadow: 5px 5px 3px #222;
+}
+p {
+    font-family: times; 
+}
